@@ -24,6 +24,6 @@
 
 #### Preview
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=circlerow&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KawaiiHasuu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=circlerow&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawaiiHasuu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
