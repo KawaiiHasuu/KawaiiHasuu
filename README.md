@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh An</h1>
 <h3 align="center">A passionate backend developer from Vietnam 🇻🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaiihasuu&label=Profile%20views&color=0e75b6&style=flat" alt="kawaiihasuu" /> </p>
 
 - 🔭 I’m currently working on **DAC Data Technology Vietnam**
 
@@ -22,3 +21,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kawaiihasuu&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaiihasuu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaiihasuu&label=Profile%20views&color=0e75b6&style=flat" alt="kawaiihasuu" /> </p>
