@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kawaiihasuu&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaiihasuu&hide=html,css,scss,go&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaiihasuu&hide=html,css,scss,go,makefile&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaiihasuu&label=Profile%20views&color=0e75b6&style=flat" alt="kawaiihasuu" /> </p>
