@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh An
+<h1 align="center">Hi 👋, I'm Minh An</h1>
+<h2 align="center">Backend Developer<h2>
 <h3 align="center">A passionate Backend Developer from Vietnam 🇻🇳</h3>
 
 
@@ -28,7 +29,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-![](https://github-readme-stats.vercel.app/api?username=kawaiihasuu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=kawaiihasuu&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaiihasuu&hide=html,css,scss,go,makefile&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
